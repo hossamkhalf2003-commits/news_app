@@ -96,8 +96,8 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## 👤 Author
 
-**Hossam Eldin**
-* **Role:** Front-end Developer & UI/UX Designer
+**Hossam Bahaa**
+* **Role:** Flutter Engineer
 * **GitHub:** [hossamkhalf2003-commits](https://github.com/hossamkhalf2003-commits)
 
 ---
