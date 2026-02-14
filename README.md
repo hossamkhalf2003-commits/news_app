@@ -99,6 +99,7 @@ Contributions are what make the open-source community such an amazing place to l
 **Hossam Bahaa**
 * **Role:** Flutter Engineer
 * **GitHub:** [hossamkhalf2003-commits](https://github.com/hossamkhalf2003-commits)
+* * **Ready to download and use apk file:** [[Google Drive](https://drive.google.com/file/d/1nKZ762X15BGxEKFPcwPOsezwK7IRdnWL/view?usp=drive_link)]
 
 ---
 
