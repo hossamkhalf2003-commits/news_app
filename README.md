@@ -29,11 +29,13 @@ This project was developed with a strong focus on **UI/UX design**, ensuring a s
 
 ## 📸 Screenshots
 
-| Home Screen | Article Details | Categories |
-|:---:|:---:|:---:|
-| <img src="URL_TO_YOUR_HOME_SCREENSHOT" width="200" /> | <img src="URL_TO_YOUR_DETAILS_SCREENSHOT" width="200" /> | <img src="URL_TO_YOUR_SEARCH_SCREENSHOT" width="200" /> |
 
-*(Note: Replace `URL_TO_YOUR_...` with the actual paths to your screenshots)*
+
+| Home Screen | Article Details |
+|:---:|:---:|:---:|
+| <img src="screenshots/home.png" width="200" /> | <img src="screenshots/article_details.png" width="200" /> |
+
+
 
 ---
 
