@@ -33,7 +33,7 @@ This project was developed with a strong focus on **UI/UX design**, ensuring a s
 
 | Home Screen | Article Details |
 |:---:|:---:|:---:|
-| <img src="screenshots/home.jepg" width="200" /> | <img src="screenshots/article_details.jepg" width="200" /> |
+| <img src="screenshots/home.jpeg" width="200" /> | <img src="screenshots/article_details.jpeg" width="200" /> |
 
 
 
